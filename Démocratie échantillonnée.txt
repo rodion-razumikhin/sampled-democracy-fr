@@ -28,3 +28,21 @@ Le problème de la démocratie électorale est principalement sa faiblesse vis-�
 IV.
 
 Ce projet a pour but d’étudier sérieusement la faisabilitée d’une gestion automatisée de la société dans le but de mettre à jour la démocratie tout proposant un plan de sortie maîtrisée du capitalisme de manière itérative, et de renforcer durablement le divorce entre le marché et l'état. Enquête pluridisciplinaire non vocationelle mais née de mon monologue intérieur, qui se veut et se doit d’être menée avec la riguer scientifique, dans l'esprit critique, en respect des principes humanistes, égalitaires, universalistes et hédonistes.
+
+V. 
+
+Je suis actuellement à une invention, un œuvre près d'être rassuré de pouvoir finir, dans cet essai, un plan concret, une vraie hypothèse au sens scientifique du terme, pour l'étude de faisabilité d'un tel acte verbal qui saurait prouver que cela est bien possible et souhaitable. 
+
+Il me manque une méthode pour concevoir un corpus ouvert de donnée d'apprentissage pour un fork de DeepSeek pour qu'on soit plausiblement capable de proposer un projet des machines capable d'assurer la mise en œuvre de l'idée qui m'est venue ce soir et dont j'ai esquissé les contours ici-haut. Je vais donc procéder, ingénieur que je suis, au développement de son cahier de charges.
+
+Les exigences fonctionnelles de ce corpus de textes se déclinent sur deux plans, le plan éthique, puis sur le plan stratégique. Pour qu'une machine à génération du texte puisse savoir aider à la bonne gouvernance de la société et de la civilisation, nous avons besoin que son fonctionnement puisse durablement et infailliblement garantir le respect perpétuel des valeurs morales que nous lui feront apprendre.
+
+Pour l'aspect sécuritaire, puisque c'est aussi un système d'information après tout, il est nécessaire de suivre les principes et les recommandations de la sécurité par design. Ici, l'expérience informatique nous apprend qu'un bon catalyseur du degré de cette sécurité est la transparence.
+
+C'est pour cela que la publication open source de DeepSeek fût un game-changer total. La publication libre et transparente de cet engin de génération de textes permet de cocher la case d'une importante condition nécessaire (mais pas encore suffisante) pour savoir répondre à nos besoins fonctionnels du côté éthique du cahier des charges du corpus de données. Il me paraît également évident que la transparence totale sur la donnée utilisée pour l'apprentissage d'un chat bot garanti à ne pas se pervertir ou laisser manipuler pour devenir nocif si utilisé dans un système de gouvernance.
+
+VI. 
+
+Certes, voir cette éventualité comme un but réaliste nécessite une composante de foi. Il s'agit de la foi que les faits et la logique ont un biais de gauche, du côté du progrès et de la décence, de la liberté et l'égalité en synergie.
+
+Je confesse cette foi, et j'invite toute personne qui n'y est pas hostile à me suivre.
